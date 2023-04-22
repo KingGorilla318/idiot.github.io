@@ -4,7 +4,7 @@ if (top.location != location) {
 }
 function reopen() {
   window.open(
-    "popup.html",
+    "index.html",
     "",
     "blankmenubar=no,status=no,toolbar=noresizable=no,width=350,height=370,titlebar=no,alwaysRaised=yes"
   );
